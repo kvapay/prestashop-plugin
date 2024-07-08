@@ -53,7 +53,7 @@
             <li>{l s='Payment amount is calculated using real-time exchange rates' mod='kvapay'}</li>
             <li>{l s='Your customers can select to pay with Bitcoin, Litecoin, Ethereum and other cryptocurrencies at checkout, while your payouts are in single currency of your choice.' mod='kvapay'}</li>
             <li>
-                <a href="https://dev.kvapay.com" target="_blank">
+                <a href="https://dev.crypay.com" target="_blank">
                     {l s='Sandbox environment' mod='kvapay'}
                 </a> {l s='for testing with Testnet Bitcoin.' mod='kvapay'}
             </li>

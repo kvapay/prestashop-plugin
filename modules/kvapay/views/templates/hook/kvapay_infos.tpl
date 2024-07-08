@@ -19,6 +19,6 @@
 <div class="alert alert-info">
     <p>
         <strong>{l s='Having trouble? ' mod='kvapay'}</strong> {l s='Contact ' mod='kvapay'} <a href="mailto:support@kvapay.com"> {l s='support@kvapay.com' mod='kvapay'}</a>.
-        <a href="https://dev.kvapay.com/#contact" target="_blank">{l s='View common issues' mod='kvapay'}</a>.
+        <a href="https://dev.crypay.com/#contact" target="_blank">{l s='View common issues' mod='kvapay'}</a>.
     </p>
 </div>

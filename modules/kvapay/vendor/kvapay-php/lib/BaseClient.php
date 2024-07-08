@@ -31,7 +31,7 @@ class BaseClient implements ClientInterface
     /**
      * @var string
      */
-    const VERSION = '1.0.0';
+    const VERSION = '1.0.2';
 
     /**
      * @var string default base URL for KvaPay's API
@@ -41,7 +41,7 @@ class BaseClient implements ClientInterface
     /**
      * @var string default base URL for KvaPay's API
      */
-    const SANDBOX_DEFAULT_API_BASE = 'https://dev.kvapay.com/api/v1';
+    const SANDBOX_DEFAULT_API_BASE = 'https://dev.crypay.com/api/v1';
 
     /**
      * @var HttpClientInterface|null

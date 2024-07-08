@@ -438,7 +438,7 @@ class Kvapay extends PaymentModule
                         'type' => 'select',
                         'label' => $this->l('Test Mode'),
                         'name' => 'KVAPAY_TEST',
-                        'desc' => $this->l('To test on dev.kvapay.com, turn Test Mode “On”. Please note, for Test Mode you must create a separate account on dev.kvapay.com and generate API credentials there.'),
+                        'desc' => $this->l('To test on dev.crypay.com, turn Test Mode “On”. Please note, for Test Mode you must create a separate account on dev.crypay.com and generate API credentials there.'),
                         'required' => true,
                         'options' => [
                             'query' => [
