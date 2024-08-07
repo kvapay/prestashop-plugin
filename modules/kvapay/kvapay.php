@@ -20,12 +20,12 @@ class Kvapay extends PaymentModule
     {
         $this->name = 'kvapay';
         $this->tab = 'payments_gateways';
-        $this->version = '1.0.0';
+        $this->version = '1.0.3';
         $this->author = 'KvaPay.com';
         $this->is_eu_compatible = 1;
         $this->controllers = ['payment', 'redirect', 'callback', 'cancel', 'success'];
         $this->ps_versions_compliancy = ['min' => '1.6', 'max' => _PS_VERSION_];
-        $this->module_key = '8173070fca98275a284e1e694b09dc5b';
+        $this->module_key = '25164d7dc88033f0170c2d0b19bbfbfb';
 
         $this->currencies = true;
         $this->currencies_mode = 'checkbox';
